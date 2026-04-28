@@ -1,24 +1,24 @@
 # My Portfolio
 
-Welcome to my portfolio! I am Mohammed Sharafuddin, an AI & Computer Science developer passionate about building intelligent systems — from deep learning pipelines to C++ game engines. Based in Melaka, Malaysia, and currently studying at Multimedia University. Throughout my portfolio, you will see a variety of projects that demonstrate my ability to build real-world applications using AI, machine learning, and modern web technologies.
+Hey there! I'm Mohammed Sharafuddin, a Computer Science student at Multimedia University, Melaka. I'm into AI, machine learning, and pretty much anything that involves building smart systems. This is my personal portfolio where I showcase my work, skills, and what I've been up to.
+
+Feel free to check it out here 👉 [mohamd-git.github.io/Portfolio-](https://mohamd-git.github.io/Portfolio-/)
 
 ## Features
 
-- Built with HTML, CSS & vanilla JavaScript
-- Terminal/hacker-inspired dark theme aesthetic
-- Fully responsive with modern design
-- Interactive particle canvas & glitch animations
+- Built with HTML, CSS & JavaScript
+- Dark terminal-inspired design
+- Fully responsive across all devices
+- Animated particle background & glitch effects
 - Downloadable CV
-- SEO optimized with JSON-LD structured data
+- Contact form
 
 ## Contribution 🤝
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b featureName`
-3. Commit your changes: `git commit -am 'Some commit message'`
-4. Push to the branch: `git push origin featureName`
-5. Submit a pull request 😉
+If you have suggestions or spot any bugs, feel free to open an issue or submit a pull request!
 
-## License 📜
-
-MIT © [Mohammed Sharafuddin](https://github.com/mohamd-git)
+1. Fork it
+2. Create your branch: `git checkout -b my-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin my-feature`
+5. Open a pull request
