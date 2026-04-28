@@ -1,42 +1,24 @@
-<div align="center">
+# My Portfolio
 
-# Mohammed Sharafuddin
+Welcome to my portfolio! I am Mohammed Sharafuddin, an AI & Computer Science developer passionate about building intelligent systems — from deep learning pipelines to C++ game engines. Based in Melaka, Malaysia, and currently studying at Multimedia University. Throughout my portfolio, you will see a variety of projects that demonstrate my ability to build real-world applications using AI, machine learning, and modern web technologies.
 
-**AI & Computer Science Developer**
+## Features
 
-I build things that think — neural nets, real-time vision systems, and game engines from scratch.
+- Built with HTML, CSS & vanilla JavaScript
+- Terminal/hacker-inspired dark theme aesthetic
+- Fully responsive with modern design
+- Interactive particle canvas & glitch animations
+- Downloadable CV
+- SEO optimized with JSON-LD structured data
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00ff9c?style=for-the-badge)](https://mohamd-git.github.io/Portfolio-/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-sharafuddin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamd-git)
+## Contribution 🤝
 
-</div>
+1. Fork it!
+2. Create your feature branch: `git checkout -b featureName`
+3. Commit your changes: `git commit -am 'Some commit message'`
+4. Push to the branch: `git push origin featureName`
+5. Submit a pull request 😉
 
----
+## License 📜
 
-### 👋 About Me
-
-Computer Science student at **Multimedia University, Melaka** with a passion for artificial intelligence, machine learning, and building intelligent systems. I enjoy working across the full stack — from training deep learning models to crafting interactive front-end experiences.
-
-### 🔧 What I Work With
-
-`Python` `C++` `PyTorch` `TensorFlow` `OpenCV` `CUDA` `JavaScript` `HTML/CSS`
-
-### 🚀 Featured Projects
-
-- **[NeonStride](https://github.com/mohamd-git/NeonStride-)** — A game engine built from scratch in C++
-- **[Machine Learning](https://github.com/mohamd-git/Machine-Learning)** — ML models and experiments
-- **[Computer Graphics](https://github.com/mohamd-git/Computer-Graphics)** — Graphics programming projects
-- **[Data Structures](https://github.com/mohamd-git/Data-Structures)** — DSA implementations
-- **[Computer Network](https://github.com/mohamd-git/Computer-Network)** — Networking projects
-
-### 📫 Get In Touch
-
-- **Email:** sharafuddin.mohammed.abdu@student.mmu.edu.my
-- **LinkedIn:** [mo-sharafuddin](https://www.linkedin.com/in/mo-sharafuddin/)
-
----
-
-<p align="center">
-  <sub>Built with ☕ and late nights</sub>
-</p>
+MIT © [Mohammed Sharafuddin](https://github.com/mohamd-git)
