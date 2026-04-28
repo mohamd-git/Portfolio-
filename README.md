@@ -12,9 +12,3 @@ Feel free to check it out here 👉 [mohamd-git.github.io/Portfolio-](https://mo
 - Animated particle background & glitch effects
 - Downloadable CV
 - Contact form
-
-## ⚠️ Notice
-
-This repository is public for viewing and learning purposes only. Copying, redistributing, or reusing any part of this code is **not permitted**. All rights reserved — see the [LICENSE](LICENSE) file for details.
-
-© 2026 Mohammed Sharafuddin
