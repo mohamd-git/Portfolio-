@@ -15,6 +15,6 @@ Feel free to check it out here 👉 [mohamd-git.github.io/Portfolio-](https://mo
 
 ## ⚠️ Notice
 
-This repository is public for viewing purposes only. You are welcome to look at the code and learn from it, but **please do not copy, redistribute, or use it as your own**. All rights are reserved.
+This repository is public for viewing and learning purposes only. Copying, redistributing, or reusing any part of this code is **not permitted**. All rights reserved — see the [LICENSE](LICENSE) file for details.
 
 © 2026 Mohammed Sharafuddin
