@@ -13,12 +13,8 @@ Feel free to check it out here 👉 [mohamd-git.github.io/Portfolio-](https://mo
 - Downloadable CV
 - Contact form
 
-## Contribution 🤝
+## ⚠️ Notice
 
-If you have suggestions or spot any bugs, feel free to open an issue or submit a pull request!
+This repository is public for viewing purposes only. You are welcome to look at the code and learn from it, but **please do not copy, redistribute, or use it as your own**. All rights are reserved.
 
-1. Fork it
-2. Create your branch: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request
+© 2026 Mohammed Sharafuddin
